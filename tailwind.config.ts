@@ -15,6 +15,7 @@ const config: Config = {
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
+        handwritten: ['Comic Sans MS', 'cursive'],
       },
       animation: {
         'fade-in': 'fadeIn 0.6s ease-out',
